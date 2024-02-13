@@ -1,3 +1,5 @@
+### My first DB usage 
+
 This was made to learn the basics of interaction between frontend - backend - database. 
 
 In the input fields you write the data you would like to store in the database, which will be sent in the body of a POST request through a FETCH to the POST endpoint made in the backend. 
